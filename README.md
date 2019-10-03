@@ -10,7 +10,8 @@ the paper is avaliable for download [here](https://arxiv.org/ftp/arxiv/papers/19
 
 ## Dataset
 
-Our SCMD2016 dataset is available for download at [Amazon Drive(2.0GB)]().
+Our SCMD2016 dataset is available for download at [Amazon Drive(2.0GB)]().           
+
 The mnist dataset in npz format can be download [here](https://s3.amazonaws.com/img-datasets/mnist.npz).
 
 
