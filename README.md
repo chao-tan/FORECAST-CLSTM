@@ -1,16 +1,22 @@
 # FORECAST-CLSTM: A New Convolutional LSTM Network for Cloudage Nowcasting
 
 
-by Chao Tan, Xin Feng, Jianwu Long, and Li Geng          
+by [Chao Tan](https://), Xin Feng, Jianwu Long, and Li Geng.       
 
-the paper is avaliable for download [here](https://arxiv.org/ftp/arxiv/papers/1905/1905.07700.pdf).
+This repository contains the source code and dataset for FORECAST-CLSTM, provided by [Chao Tan](https://).
 
+The paper is avaliable for download [here](https://arxiv.org/ftp/arxiv/papers/1905/1905.07700.pdf).
+Click [here](https://) for more details.
 
 ***
 
 ## Dataset
 
-Our SCMD2016 dataset is available for download at [OneDrive(2.0GB)](https://1drv.ms/u/s!Akhb4ZZYGvKjg0S7Rfm_jBKRFMHl?e=GvUexb).           
+Our SCMD2016 dataset is available for download at [TianYiCloud(2.5GB)](https://) or [BaiduCloud(2.5GB)](https://).           
+SCMD dataset is a brand new cloudage nowcasting dataset for deep learning research.
+It contains 20000 grayscale image sequences for training and another 3500 image sequences for testing.
+You can get the SCMD2016 dataset at any time but only for scientific research. 
+At the same time, please cite our work when you use the SCMD dataset.
 
 The mnist dataset in npz format can be download [here](https://s3.amazonaws.com/img-datasets/mnist.npz).
 
