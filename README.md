@@ -1,12 +1,12 @@
 # FORECAST-CLSTM: A New Convolutional LSTM Network for Cloudage Nowcasting
 
 
-by [Chao Tan](https://), Xin Feng, Jianwu Long, and Li Geng.       
+by [Chao Tan](https://chao-tan.gitee.io), Xin Feng, Jianwu Long, and Li Geng.       
 
-This repository contains the source code and dataset for FORECAST-CLSTM, provided by [Chao Tan](https://).
+This repository contains the source code and dataset for FORECAST-CLSTM, provided by [Chao Tan](https://chao-tan.gitee.io).
 
 The paper is avaliable for download [here](https://arxiv.org/ftp/arxiv/papers/1905/1905.07700.pdf).
-Click [here](https://) for more details.
+Click [here](https://chao-tan.gitee.io/projects/forecast-clstm/project-page.html) for more details.
 
 ***
 
